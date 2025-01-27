@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 0. Introduction
 This project focuses on building a web application to predict house prices for house buyers and house sellers.
 
@@ -97,3 +98,6 @@ Available: [https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
 *House Prices EDA*, Kaggle, Accessed on: April 19, 2021. [Online]
 Available: [https://www.kaggle.com/dgawlik/house-prices-eda](https://www.kaggle.com/dgawlik/house-prices-eda)
+=======
+# House-Price-Prediction
+>>>>>>> 8e44fe7e9dd16b8af078e32e9f8dec471789744d
