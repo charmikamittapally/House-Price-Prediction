@@ -5,7 +5,7 @@ The value of a house is more than just location and square footage. Houses have 
 
 We developed our application using a series of logical steps to ensure that users can easily use the application and make accurate predictions.
 
-0) Introduction
+ Introduction
 1) Problem definition
 2) Solution approach
 3) Results and discussions
